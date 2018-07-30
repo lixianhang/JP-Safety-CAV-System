@@ -1,5 +1,5 @@
 # JP-Safety-CAV-System
-our project is designed to solve the accident problem. 
+Our project is designed to solve the accident problem. 
 My solution is to use the IoT tech and automatical mapping and driving for searching and rescuring. 
 Our purpose is to build a complete system including the cloud platform , the hardware(represent the vehicles)and the mobile app. 
 The essensial parts is connected within  the Internet. The hardware part needs the most complex design and cost. 
